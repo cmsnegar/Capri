@@ -1,0 +1,2 @@
+# Capri
+Directadmin Capri skin
